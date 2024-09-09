@@ -37,11 +37,9 @@ function calculateTip(billPrice)
    let testTip = calculateTip(testBill);
 
    console.log(`For am example bill of ${testBill}, the tip would be ${testTip}`)
-   console.log(`For am example bill of ${testBill}, the tip would be ${testTip}`)
-
 
    // Task 4: Utilize Arrays
-   
+
 function calculateTip(billPrice)
 {
 if (billPrice >= 50 && billPrice <= 300) {
